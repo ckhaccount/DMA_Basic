@@ -1,0 +1,3 @@
+D:/STM32Project/DMA_Basic/cmake-build-debug/CMakeFiles/DMA_Basic.elf.dir
+D:/STM32Project/DMA_Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STM32Project/DMA_Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
